@@ -4,4 +4,4 @@ Technically, although it does not provide you with infinite ammo. It kind of rep
 
 This mod also tries to improve the accuracy of the projectile.
 
-![https://thunderstore.io/c/valheim/p/Disboard/Ballista_Infinite_Ammo/](Download the Mod here)
+[Download the Mod here](https://thunderstore.io/c/valheim/p/Disboard/Ballista_Infinite_Ammo/)
